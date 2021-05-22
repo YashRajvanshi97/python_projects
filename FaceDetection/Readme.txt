@@ -1,0 +1,3 @@
+Detection of any face appearing on the frame.
+• Locating specific points on the face, for example the tip of the nose and the corners of each eye to create a mask and then rotation and zooming it for clear appearance. Identifying the key parts of a face that will be similar for any photo of the same person stored in the computer and different for any others photo. E.g. - shape of nose, hairs etc.
+• The input picture will be compared with pictures in database and will revert success if a match found.
